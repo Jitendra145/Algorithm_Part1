@@ -1,6 +1,7 @@
 # Lecture: Union−Find
+https://d3c33hcgiwev3.cloudfront.net/_b65e7611894ba175de27bd14793f894a_15UnionFind.pdf?Expires=1560211200&Signature=chfUsE4rsuuVnXEKw2VM~rA728c7uHqS8rm7X5xVKH8xvD3peE03G37q2m95Piv6jr2boSqXtjbtS44iUCDOopG93WM4fbNvS9o7UNFypqkcqZ7coHZyWoCmhaGQV681foOspZ29T6pUIhiHY2ogJ0TRfcQdcVtYpGWRaFCJgNA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
 
-#Lecture: Analysis of Algorithms
+# Lecture: Analysis of Algorithms
 
 # Programming Assignment: Percolation
 
